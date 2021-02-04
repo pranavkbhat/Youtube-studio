@@ -1,0 +1,66 @@
+{
+  "contents": [
+    {
+      "id": "1",
+      "Title": "Day at the Zoo",
+      "Description": "A Kid spends his day at the zoo for the first time",
+      "Visibility": "Private",
+      "PublishedOn": "2 November 2020",
+      "Views": "250",
+      "Likes": "60",
+      "Dislikes": "10",
+      "Comments": "30"
+    },
+    {
+      "Title": "India vlog ",
+      "Description": "A vlog on my trip to india",
+      "Visibility": "Public",
+      "PublishedOn": "2021-01-01",
+      "Views": 1025,
+      "Likes": 300,
+      "Dislikes": 20,
+      "Comments": 50,
+      "id": "3qggD10"
+    },
+    {
+      "Title": "Dubai vlog",
+      "Description": "A vlog based on my trip to dubai from india",
+      "Visibility": "Unlisted",
+      "PublishedOn": "2021-01-16",
+      "Views": 2345,
+      "Likes": 60,
+      "Dislikes": 5,
+      "Comments": 30,
+      "id": "LB5xUC2"
+    },
+    {
+      "Title": "Invincible",
+      "Description": "a story based on a team of invincible hero's",
+      "Visibility": "Public",
+      "PublishedOn": "2021-02-03",
+      "Views": 365,
+      "Likes": 123,
+      "Dislikes": 34,
+      "Comments": 86,
+      "id": "FzjOaZe"
+    },
+    {
+      "Title": "Lime light",
+      "Description": "story of a young dancer getting to showcase her talent",
+      "Visibility": "Private",
+      "PublishedOn": "2021-01-31",
+      "Views": 651,
+      "Likes": 412,
+      "Dislikes": 21,
+      "Comments": 223,
+      "id": "rcYvBH9"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Pranav",
+      "email": "admin@admin.com"
+    }
+  ]
+}
